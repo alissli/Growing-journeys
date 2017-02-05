@@ -1,1 +1,1 @@
-# Ojective-Management
+# Self-Management
