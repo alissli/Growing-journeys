@@ -1,4 +1,4 @@
-# Growing-journey
+# Growing-journeys
 
 ## 自留地
 - [alissli's blog](alissli.github.io)
