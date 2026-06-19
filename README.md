@@ -11,5 +11,5 @@
 
 ### changelog:
 - xxxx-xx-xx-setup
-- 200017-09-30 update the name of repo. by considering the metaphor 
+- 2017-09-30 update the name of repo. by considering the metaphor 
 
